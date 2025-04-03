@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59ed1,100:fffafa&height=180&text=Good%20to%20see%20you&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://github.com/user-attachments/assets/8b01ba63-c2c5-4e0e-8d26-d6048ee018bf" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👀 About Me </h2>  
