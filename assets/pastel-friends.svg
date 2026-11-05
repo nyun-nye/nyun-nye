@@ -1,0 +1,88 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600" height="190" viewBox="0 0 600 190">
+  <g shape-rendering="crispEdges">
+
+    <!-- Pastel clouds -->
+    <g fill="#DCEEFF" opacity=".95">
+      <rect x="48" y="36" width="92" height="24"/>
+      <rect x="68" y="20" width="56" height="24"/>
+      <rect x="454" y="34" width="96" height="24"/>
+      <rect x="474" y="18" width="56" height="24"/>
+    </g>
+
+    <!-- Pixel stars -->
+    <g fill="#FFD98A">
+      <path d="M196 28h8v12h12v8h-12v12h-8V48h-12v-8h12z"/>
+      <path d="M390 48h8v12h12v8h-12v12h-8V68h-12v-8h12z"/>
+    </g>
+
+    <!-- Floating heart -->
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate" values="0 0;0 -9;0 0"
+        dur="2s" repeatCount="indefinite"/>
+      <path fill="#FF91BE"
+        d="M280 35h16v8h8v-8h16v8h8v16h-8v8h-8v8h-8v8h-8v-8h-8v-8h-8v-8h-8V43h8z"/>
+      <rect x="288" y="43" width="8" height="8"
+            fill="#FFE7F1"/>
+    </g>
+
+    <!-- Bunny -->
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate" values="0 0;0 -4;0 0"
+        dur="2.5s" repeatCount="indefinite"/>
+      <g fill="#FFFFFF">
+        <rect x="190" y="72" width="20" height="46"/>
+        <rect x="230" y="72" width="20" height="46"/>
+        <rect x="182" y="108" width="76" height="54"/>
+        <rect x="194" y="154" width="52" height="16"/>
+      </g>
+      <g fill="#FFB8D5">
+        <rect x="198" y="82" width="8" height="25"/>
+        <rect x="234" y="82" width="8" height="25"/>
+        <rect x="190" y="137" width="12" height="8"/>
+        <rect x="238" y="137" width="12" height="8"/>
+      </g>
+      <g fill="#83719D">
+        <rect x="204" y="128" width="7" height="9"/>
+        <rect x="230" y="128" width="7" height="9"/>
+      </g>
+      <rect x="218" y="141" width="7" height="5"
+            fill="#F09BBD"/>
+    </g>
+
+    <!-- Cat -->
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate" values="0 0;0 -3;0 0"
+        dur="3s" repeatCount="indefinite"/>
+      <g fill="#F5E9FF">
+        <path d="M350 112v-30h20v14h40V82h20v30h8v50h-96v-50z"/>
+        <rect x="360" y="155" width="68" height="15"/>
+      </g>
+      <g fill="#D8B8F4">
+        <rect x="357" y="89" width="8" height="15"/>
+        <rect x="415" y="89" width="8" height="15"/>
+        <rect x="350" y="137" width="10" height="8"/>
+        <rect x="420" y="137" width="10" height="8"/>
+      </g>
+      <g fill="#83719D">
+        <rect x="368" y="125" width="7" height="9"/>
+        <rect x="404" y="125" width="7" height="9"/>
+      </g>
+      <rect x="386" y="139" width="7" height="5"
+            fill="#FF9FBF"/>
+    </g>
+
+    <!-- Sparkles -->
+    <g fill="#FFC9DF">
+      <rect x="158" y="100" width="8" height="8"/>
+      <rect x="444" y="118" width="8" height="8"/>
+      <rect x="270" y="128" width="6" height="6"/>
+      <rect x="324" y="112" width="6" height="6"/>
+    </g>
+
+  </g>
+</svg>
